@@ -4,8 +4,8 @@ public enum TipoProduto {
 
     ESCRITORIO(0),
     GAMES(1),
-    ALIMENTACAO(2),
-    MOVEIS(3);
+    MOVEIS(2),
+    ALIMENTACAO(3);
 
     private Integer codigo;
 

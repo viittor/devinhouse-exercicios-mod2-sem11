@@ -5,7 +5,7 @@ import com.senai.devinhouse.produtos.model.TipoProduto;
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;
 
-@Converter(autoApply = true)
+@Converter(autoApply = false)
 public class TipoProdutoConverter implements AttributeConverter<TipoProduto, Integer> {
 
     @Override
