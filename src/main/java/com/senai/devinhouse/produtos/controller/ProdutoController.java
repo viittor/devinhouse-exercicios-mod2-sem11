@@ -1,6 +1,5 @@
 package com.senai.devinhouse.produtos.controller;
 
-import com.senai.devinhouse.produtos.dto.ProdutoDTO;
 import com.senai.devinhouse.produtos.model.Produto;
 import com.senai.devinhouse.produtos.repository.ProdutoRepository;
 import org.slf4j.Logger;
